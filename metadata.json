@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Automator",
+  "description": "An AI-powered tool to streamline YouTube content creation. It generates video scripts, combines them with voiceovers and visuals to create a video concept, and prepares it for upload to YouTube.",
+  "requestFramePermissions": []
+}
